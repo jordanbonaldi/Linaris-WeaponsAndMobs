@@ -1,0 +1,4 @@
+main: net.theuniverscraft.WeaponsAndMobs.PluginMain
+name: WeaponsAndMobs
+version: 0.1
+depends: [Vault]
